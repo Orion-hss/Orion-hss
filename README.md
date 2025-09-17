@@ -1,4 +1,4 @@
-# 👋 Selam, ben Güzelim (Orion-hss)  
+# 👋 Selam, ben Huriye Şenal (Orion-hss)  
 
 🎓 Bilgisayar Programcılığı öğrencisiyim.  
 🔒 Siber güvenlik alanına yönelmek istiyorum.  
